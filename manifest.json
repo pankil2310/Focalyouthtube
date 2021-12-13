@@ -1,0 +1,23 @@
+{
+    "lang": "en",
+    "name": "Focalyt LMS",
+    "short_name": "focalyt",
+     "icons": [{
+          "src": "icon/icon_2.png",
+          "type": "image/png"
+        }, {
+          "src": "icon/icon_2.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }, {
+          "src": "icon/icon_2.png",
+          "sizes": "128x128",
+          "density": 2
+        }],
+    "scope": "/",
+    "start_url": "index.php",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#141B29",
+    "background_color": "#141B29"
+  }
